@@ -49,7 +49,7 @@ print(Y)
 
 numerical_columns=X.select_dtypes(include=["int64","float64"]).columns
 
-categorical_columns=X.select_dtypes(include=["object"]).columns
+categorical_columns=X.select_dtypes(include=["object",""]).columns
 
 
 print("Numnerical Columns:")
