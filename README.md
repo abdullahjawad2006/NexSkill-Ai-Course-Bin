@@ -2,7 +2,7 @@
 
 Nexskill Full Stack AI course assignments and programming exercises.
 
-💡 Tip: You can view and browse all submitted assignment files and full version history by clicking the Commits button (63 Commits) at the top of this repository.
+💡 Tip: You can view and browse all submitted assignment files and full version history by clicking the Commits button (65 Commits) at the top of this repository.
 
 📑 Table of Contents
 - Python Assignments
