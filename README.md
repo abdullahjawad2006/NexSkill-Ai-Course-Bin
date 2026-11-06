@@ -17,34 +17,34 @@ Nexskill Full Stack AI course assignments and programming exercises.
 ## Python Assignments
 
 ### Week 1 Python Assignments
-* [Week 1 Python Practice & Core Fundamentals](./Python/Week_1_Python_Assignments.ipynb)
+* [Week 1 Python Assignments](./Week%201%20Python%20Assignments/)
 
 ---
 
 ## Numpy Assignments
 
-* [Numpy on US Real Estate 1](./Numpy/Numpy_on_US_Real_Estate_1.ipynb)
-* [Numpy on US Real Estate 2](./Numpy/Numpy_on_US_Real_Estate_2.ipynb)
-* [Numpy on Fast Food Restaurants](./Numpy/Numpy_on_Fast_Food_Restaurants.ipynb)
-* [Numpy on US Startup Investment](./Numpy/Numpy_on_US_Startup_Investment.ipynb)
+* [Numpy on US Real Estate 1](./Numpy_on_US_Real_Estate_1.py)
+* [Numpy on US Real Estate 2](./Numpy_on_US_Real_Estate_2.py)
+* [Numpy on Fast Food Restaurants](./Numpy_on_Fast_Food_Restaurants.py)
+* [Numpy on US Startup Investment](./Numpy_on_US_Startup_Investment.py)
 
 ---
 
 ## Pandas Assignments
 
-* [Pandas on US Real Estate 1](./Pandas/Pandas_on_US_Real_Estate_1.ipynb)
-* [Pandas on US Real Estate 2](./Pandas/Pandas_on_US_Real_Estate_2.ipynb)
-* [Pandas on US Restaurants](./Pandas/Pandas_on_US_Restaurants.ipynb)
-* [Pandas on US Startup Funding](./Pandas/Pandas_on_US_Startup_Funding.ipynb)
+* [Pandas on US Real Estate 1](./Pandas_on_US_Real_Estate_1.py)
+* [Pandas on US Real Estate 2](./Pandas_on_US_Real_Estate_2.py)
+* [Pandas on US Restaurants](./Pandas_on_US_Restaurants.py)
+* [Pandas on US Startup Funding](./Pandas_on_US_Startup_Funding.py)
 
 ---
 
 ## Seaborn Assignments
 
-* [Seaborn on US Real Estate 1](./Seaborn/Seaborn_on_US_Real_Estate_1.ipynb)
-* [Seaborn on Real Estate Sales](./Seaborn/Seaborn_on_Real_Estate_Sales.ipynb)
-* [Seaborn on US Restaurants](./Seaborn/Seaborn_on_US_Restaurants.ipynb)
-* [Seaborn on Startup Growth Investment](./Seaborn/Seaborn_on_Startup_Growth_Investment.ipynb)
+* [Seaborn on US Real Estate 1](./Seaborn_on_US_Real_Estate_1.py)
+* [Seaborn on Real Estate Sales](./Seaborn_on_Real_Estate_Sales.py)
+* [Seaborn on US Restaurants](./Seaborn_on_US_Restaurants.py)
+* [Seaborn on Startup Growth Investment](./Seaborn_on_Startup_Growth_Investment.py)
 
 ---
 
@@ -54,19 +54,19 @@ Nexskill Full Stack AI course assignments and programming exercises.
 
 | Task | Script | Dataset (CSV) |
 | :--- | :--- | :--- |
-| **Alibaba Auto Accessories Products** | [`alibaba_auto_accessories.py`](./WebScraping/alibaba_auto_accessories.py) | [`Alibaba_Auto_Accessories_Products_bs4.csv`](./WebScraping/Alibaba_Auto_Accessories_Products_bs4.csv) |
-| **Daraz Smart Phone Products** | [`daraz_smart_phones.py`](./WebScraping/daraz_smart_phones.py) | [`Daraz_Smart_Phone_Products_bs4.csv`](./WebScraping/Daraz_Smart_Phone_Products_bs4.csv) |
-| **Ebay Smart Phone Products** | [`ebay_smart_phones.py`](./WebScraping/ebay_smart_phones.py) | [`Ebay_Smart_Phone_Products_bs4.csv`](./WebScraping/Ebay_Smart_Phone_Products_bs4.csv) |
-| **Amazon Mobiles** | [`amazon_mobiles2.py`](./WebScraping/amazon_mobiles2.py) | [`Amzon_Mobiles2_bs4.csv`](./WebScraping/Amzon_Mobiles2_bs4.csv) |
+| **Alibaba Auto Accessories Products** | [`Beautiful Soup on Alibaba Auto Accessories Products 3.py`](./Beautiful%20Soup%20on%20Alibaba%20Auto%20Accessories%20Products%203.py) | [`Alibaba_Auto_Accessories_Products_bs4.csv`](./Alibaba_Auto_Accessories_Products_bs4.csv) |
+| **Daraz Smart Phone Products** | [`Beautiful Soup on Daraz Smart Phone Products 3.py`](./Beautiful%20Soup%20on%20Daraz%20Smart%20Phone%20Products%203.py) | [`Daraz_Smart_Phone_Products_bs4.csv`](./Daraz_Smart_Phone_Products_bs4.csv) |
+| **Ebay Smart Phone Products** | [`Beautiful Soup on Ebay Smart Phone Products 3.py`](./Beautiful%20Soup%20on%20Ebay%20Smart%20Phone%20Products%203.py) | [`Ebay_Smart_Phone_Products_bs4.csv`](./Ebay_Smart_Phone_Products_bs4.csv) |
+| **Amazon Mobiles** | [`Beautiful Soup on Amazon Smart Home Products 3.py`](./Beautiful%20Soup%20on%20Amazon%20Smart%20Home%20Products%203.py) | [`Amzon_Mobiles2_bs4.csv`](./Amzon_Mobiles2_bs4.csv) |
 
 ### Selenium Dynamic Scraping
 
 | Task | Script | Target CSV |
 | :--- | :--- | :--- |
-| **Alibaba iPhone Back Covers** | [`selenium_alibaba_iphone_back_covers.py`](./WebScraping/selenium_alibaba_iphone_back_covers.py) | [`AlibabaiPhoneBackCovers.csv`](./WebScraping/AlibabaiPhoneBackCovers.csv) |
-| **Ebay Apple iPhones** | [`selenium_ebay_apple_iphones.py`](./WebScraping/selenium_ebay_apple_iphones.py) | [`Ebay_Apple_iPhones_selenium.csv`](./WebScraping/Ebay_Apple_iPhones_selenium.csv) |
-| **Daraz Expensive Mobiles** | [`selenium_daraz_expensive_mobiles.py`](./WebScraping/selenium_daraz_expensive_mobiles.py) | [`Daraz_Expensive_Mobiles_selenium.csv`](./WebScraping/Daraz_Expensive_Mobiles_selenium.csv) |
-| **Amazon Smart Home Products** | [`selenium_amazon_smart_home.py`](./WebScraping/selenium_amazon_smart_home.py) | [`Amazon_Smart_Home_Products_selenium.csv`](./WebScraping/Amazon_Smart_Home_Products_selenium.csv) |
+| **Alibaba iPhone Back Covers** | [`selenium_alibaba_iphone_back_covers.py`](./selenium_alibaba_iphone_back_covers.py) | [`AlibabaiPhoneBackCovers.csv`](./AlibabaiPhoneBackCovers.csv) |
+| **Ebay Apple iPhones** | [`selenium_ebay_apple_iphones.py`](./selenium_ebay_apple_iphones.py) | [`Ebay_Apple_iPhones_selenium.csv`](./Ebay_Apple_iPhones_selenium.csv) |
+| **Daraz Expensive Mobiles** | [`selenium_daraz_expensive_mobiles.py`](./selenium_daraz_expensive_mobiles.py) | [`Daraz_Expensive_Mobiles_selenium.csv`](./Daraz_Expensive_Mobiles_selenium.csv) |
+| **Amazon Smart Home Products** | [`selenium_amazon_smart_home.py`](./selenium_amazon_smart_home.py) | [`AmazonSmartHomeGadgets_selenium.csv`](./AmazonSmartHomeGadgets_selenium.csv) |
 
 ---
 
@@ -74,16 +74,7 @@ Nexskill Full Stack AI course assignments and programming exercises.
 
 ### Classification Assignments
 
-* **Assignment 1:** [`ML-Classification-Bank-Assignment1`](./MachineLearning/ML-Classification-Bank-Assignment1.ipynb)
-* **Assignment 2:** [`ML-Classification-Titanic-Assignment2`](./MachineLearning/ML-Classification-Titanic-Assignment2.ipynb)
-* **Assignment 3:** [`ML-Classification-MobilePrice-Assignment3`](./MachineLearning/ML-Classification-MobilePrice-Assignment3.ipynb)
-* **Assignment 4:** [`ML-Classification-Loan-Assignment4`](./MachineLearning/ML-Classification-Loan-Assignment4.ipynb)
-* **Assignment 5:** [`ML-Classification-Diagnosis_Assignment5`](./MachineLearning/ML-Classification-Diagnosis_Assignment5.ipynb)
-
-### Regression Assignments
-
-* **Assignment 1:** [`ML-Regression-CaliforniaHousing-Assignment1`](./MachineLearning/ML-Regression-CaliforniaHousing-Assignment1.ipynb)
-* **Assignment 2:** [`ML-Regression-Diamonds-Assignment2`](./MachineLearning/ML-Regression-Diamonds-Assignment2.ipynb)
-* **Assignment 3:** [`ML-Regression-MedicalCost-Assignment3`](./MachineLearning/ML-Regression-MedicalCost-Assignment3.ipynb)
-* **Assignment 4:** [`ML-Regression-LifeExpectancy-Assignment4`](./MachineLearning/ML-Regression-LifeExpectancy-Assignment4.ipynb)
-* **Assignment 5:** [`ML-Regression-AutomobileData-Assignment5`](./MachineLearning/ML-Regression-AutomobileData-Assignment5.ipynb)
+* **Assignment 1:** [`ML-Classification-Bank-Assignment1`](./ML-Classification-Bank-Assignment1.py)
+* **Assignment 2:** [`ML-Classification-Titanic-Assignment2`](./ML-Classification-Titanic-Assignment2.py)
+* **Assignment 3:** [`ML-Classification-MobilePrice-Assignment3`](./ML-Classification-MobilePrice-Assignment3.py)
+* **Assignment 4:** [`ML-Classification-Loan-Assignment4`](./ML-Classification-Loan-Assignment4.py)
